@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm rahul singh from jaipur <br><br>- 🔭 I’m working as data analyst and front end developer.<br>- 📚 I'm currently in 4th year B.tech.<br>- ⚡ In my free time I work on hacker-rank and improve my soft skills.</p>
+<p align="left">I'm rahul singh from jaipur <br><br>- 🔭 I’m working as data analyst and front end developer.<br>- 📚 I'm currently in 4th year of B.tech.<br>- ⚡ In my free time I work on hacker-rank and improve my soft skills.</p>
 
 ###
 
